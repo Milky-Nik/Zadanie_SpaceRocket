@@ -1,2 +1,2 @@
 # Zadanie_SpaceRocket
- Test project for Game Designer Job
+ Test project for Technical Gameplay dEsigner
